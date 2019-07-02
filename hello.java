@@ -5,6 +5,9 @@ public class HelloWorld {
         System.out.println("Hello, World");
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World from GitDesktop");
+
+        // Prints "Hello, World" to the terminal window.
+
     }
 
 }
